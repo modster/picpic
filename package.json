@@ -9,6 +9,8 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@hint/configuration-web-recommended": "^8.2.23",
+    "hint": "^7.1.10",
     "typescript": "^5.0.2",
     "vite": "^4.3.9"
   }
